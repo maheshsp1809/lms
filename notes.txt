@@ -1,0 +1,8 @@
+line-clamp in tailwind css
+doubts
+_componenets folder [attachementid] [[...folder]] (folder) in next doubts 
+
+creating post get delete patch requests
+ @@index([chapterId]) why and more about backrelation in prisma
+
+ page.tsx of [.coursid] why Pricedetails and others arr put in differnt divs than the other divs like Titleform decriptionForm
